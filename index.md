@@ -35,7 +35,7 @@
         var bs = map.getBounds();   //返回地图可视区域
 	    cr.addCopyright({
             id: 1, 
-            content: "<img src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs1.lvjs.com.cn%2Fuploads%2Fpc%2Fplace2%2F2015-02-09%2F55b0290f-fe14-4cb8-8c81-c2b7639928ec_960_.jpg&refer=http%3A%2F%2Fs1.lvjs.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650018314&t=d2d7969c23c1888f1102170a7e7672bc", 
+            content: "<img src='https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fs1.lvjs.com.cn%2Fuploads%2Fpc%2Fplace2%2F2015-02-09%2F55b0290f-fe14-4cb8-8c81-c2b7639928ec_960_.jpg&refer=http%3A%2F%2Fs1.lvjs.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650018314&t=d2d7969c23c1888f1102170a7e7672bc' width='400px' height='200px'/><a href='#' style='font-size:16px;color:#000'>", 
             bounds: bs
         });
 
